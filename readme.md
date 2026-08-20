@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (Alura)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (CRUZEIRO DO SUL)  
 💻 Apaixonada por desenvolvimento de sistemas, análise de dados e tecnologia  
-🌱 Atualmente estudando: Python
+🌱 Atualmente estudando: Python e Java
 🎯 Em busca da minha primeira oportunidade como Desenvolvedor de Sistemas Júnior  
 
 ---
